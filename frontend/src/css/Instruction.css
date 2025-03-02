@@ -1,0 +1,22 @@
+.instructions-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .instructions-container h1, h2 {
+    color: #ff6600;
+  }
+  
+  .instructions-container ol, .instructions-container ul {
+    text-align: left;
+    margin: 10px auto;
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .instructions-container p {
+    font-size: 18px;
+  }
+  
